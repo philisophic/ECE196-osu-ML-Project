@@ -1,0 +1,4 @@
+config.json
+maps/
+*.csv
+.ipynb_checkpoints/
